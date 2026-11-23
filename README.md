@@ -1,56 +1,28 @@
-# Hi, I'm Miaodong li 👋
+# Hi, I'm Miaodong 👋
 
-Chemistry undergraduate building **WarmWinter** — an AI-powered research ecosystem for scientific workflows and experimental intelligence.
+I'm a **chemistry undergraduate and independent developer** exploring the intersection of scientific research, software engineering, and artificial intelligence.
 
-I am exploring how artificial intelligence can improve the way researchers analyze data, organize knowledge, and conduct scientific work.
+I like turning real problems into useful tools. My interests range from spectroscopy and research workflows to AI systems, model evaluation, and interdisciplinary learning.
 
----
+## What I'm working on
 
-## 🚀 Current Projects
+- **Specelys / ResearchOS** — an evolving, local-first scientific software project. The ResearchOS codebase covers work on FTIR, XPS, XRD, UV–Vis, statistics, scientific visualization, and reproducible research workflows. Features are at different stages of development and validation.
+- **Foveliem** — a long-term exploration of AI models and agents for scientific work, with a focus on evidence, reasoning quality, self-correction, and user choice. This is a research direction, not a claim that proprietary models have been released.
+- **GhostPen** — experiments in handwriting data processing, reconstruction, and scientific-document workflows.
 
-### 🧪 WarmWinter ResearchOS
+Some of these repositories are private, and project names or scopes may evolve.
 
-An AI-assisted scientific workflow platform designed for researchers.
+## How I approach building
 
-Current focus:
+- **Evidence over confident-sounding answers.** Check assumptions, trace sources, and be willing to revise a conclusion.
+- **Useful systems over impressive demos.** Prefer tools that solve real problems and can be maintained.
+- **User control and portability.** Favor local-first workflows, clear boundaries, and flexibility in external AI providers.
+- **Curiosity across disciplines.** Chemistry, computing, AI, and unexpected connections between them.
 
-- FTIR spectroscopy analysis
-- XPS data processing and reverse engineering
-- Scientific knowledge management
-- AI-assisted experimental workflows
+**WarmWinter** is the creative thread connecting many of my projects and ideas.
 
----
+This profile reflects ongoing personal work and exploration—not a statement that every project is a finished or publicly available product.
 
-### 🐱 GhostPen
+## Contact
 
-Researching AI-based handwriting generation and reconstruction.
-
-Exploring:
-
-- handwriting feature extraction
-- stroke-level reconstruction
-- personal writing style modeling
-
----
-
-## 🔬 Interests
-
-- Artificial Intelligence
-- Chemistry
-- Scientific Computing
-- Research Automation
-- Knowledge Systems
-
----
-
-## 🌱 Philosophy
-
-Build tools that amplify human scientific creativity.
-
----
-
-## 📫 Contact
-
-GitHub: https://github.com/miaodongli
-
-Website: https://warmwinteros.com （coming soon）
+- GitHub: [@miaodongli](https://github.com/miaodongli)
