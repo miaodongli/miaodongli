@@ -1,4 +1,4 @@
-# Hi, I'm Miaodong 👋
+# Hi! 👋
 
 Chemistry undergrad, independent developer. I build local-first tools for doing science — the kind I actually want to use myself.
 
@@ -18,7 +18,7 @@ Some repos are private, and names change as things evolve.
 
 ---
 
-# 你好，我是 Miaodong
+# 你好！
 
 应用化学本科生，独立开发者。做本地优先的科研工具——都是我自己想用的东西。
 
