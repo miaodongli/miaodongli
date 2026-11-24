@@ -4,7 +4,7 @@ Chemistry undergrad, independent developer. I build local-first tools for doing 
 
 ## What I'm building
 
-- **ResearchOS / Specelys** — desktop software for research workflows: FTIR, XPS, XRD, UV–Vis, statistics, plotting. Runs locally, your data stays yours.
+- **Specelys** — agent-native software for scientific work. It starts with the agent, not the instruments: the agent plans, calls tools, and checks its own work. FTIR, XPS, XRD, UV–Vis, statistics, and plotting are tools it uses, not where the project starts. Runs locally, your data stays yours.
 - **Foveliem** — a long-term bet on AI models and agents for scientific work. Still research, nothing released yet.
 - **GhostPen** — handwriting reports and chemistry study pages. It writes in your handwriting, draws your mechanisms, and keeps everything offline.
 
@@ -24,7 +24,7 @@ Some repos are private, and names change as things evolve.
 
 ## 在做的事
 
-- **ResearchOS / Specelys** —— 科研工作流桌面软件：FTIR、XPS、XRD、UV–Vis、统计、作图。本地跑，数据不出你的电脑。
+- **Specelys** —— 给科研用的 agent 原生软件。先做 agent，再做仪器：agent 负责规划、调工具、自己检查。FTIR、XPS、XRD、UV–Vis、统计、作图都是 agent 能调的工具，不是项目的起点。本地跑，数据不出你的电脑。
 - **Foveliem** —— 给科研用的 AI 模型和 Agent，长期方向，还没发布任何东西。
 - **GhostPen** —— 手写报告和化学学习页。用你的字迹写报告、画机理，全程离线。
 
